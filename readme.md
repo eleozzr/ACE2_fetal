@@ -1,1 +1,1 @@
-This repo will include the raw data and processing code for our paper "The ACE2 expression of maternal-fetal interface and fetal organs indicates potential risk of vertical transmission of SRAS-COV-2"
+This repo will include the raw data matrix and processing script for our paper "The ACE2 expression of maternal-fetal interface and fetal organs indicates potential risk of vertical transmission of SRAS-COV-2"
